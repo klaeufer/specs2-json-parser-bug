@@ -9,7 +9,7 @@ scalacOptions += "-deprecation"
 //parallelExecution := false
 
 libraryDependencies ++= Seq(
-  "org.specs2" %% "specs2" % "1.8.2" % "test",
+  "org.specs2" %% "specs2" % "1.9-SNAPSHOT" % "test",
   "junit"      %  "junit"  % "4.7"   % "test"
 )
 
